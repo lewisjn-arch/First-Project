@@ -43,9 +43,11 @@
 
 ## 🛠 Built With <a name="html"></a>
 
-### Tech Stack <a name="CSS"></a>
+### Tech Stack <a name="PERN"></a>
 
 > Describe the tech stack and include only the relevant sections that apply to your project.
+
+This tech stack is PERN and consists of PostgreSQL, Express, React, and Node. With the Express. js framework, PostgreSQL is used as a backend database.
 
 <details>
   <summary>Client</summary>
@@ -74,17 +76,21 @@
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[Access to my professional profiles]**
+- **[Contains my progress in Microverse]**
+- **[Has Linters to check the code quality]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
 > Describe how a new developer could make use of your project.
+ You could make use of this project to train you on how to use linters and improve your code quality.
+
 
 To get a local copy up and running, follow these steps.
+
+<p>In order to use my project, you would have to navigate to my github account repository section, access the repository titled 'FIRST-PROJECT'. At the repository section you should click on the code button that should be green and copy the https link to the repository. You would then use the git bash terminal command $git clone "repository link" to clone the project repository and then the cd "repositoty name" command in order to access the main branch of the repository. Enjoy and be sure to initiate a pull request if you would like to contribute to my  project.</p>
 
 ### Prerequisites
 
@@ -163,7 +169,7 @@ Example:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Authors <a name="authors" href="https://github.com/lewisjn-arch">Lewis Hinga</a>
 
 > Mention all of the collaborators of this project.
 
@@ -177,9 +183,9 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[Links_to_my_other_pages]**
+- [ ] **[Javascript_functionilty]**
+- [ ] **[Page_animations]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -194,19 +200,15 @@ Feel free to check the [issues page](../../issues/).
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## ⭐️ Show your support <a name="support"></a>
+## ⭐️ Show your support <a name="support" href="https://github.com/lewisjn-arch">Github profile</a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project please like and share to your available networks and I would really appreciate it, Thanks.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
+## 🙏 Acknowledgments <a name="acknowledgements">Mumbere</a>
 
 I would like to thank Mumbere because he has helped me understand and solve issues on where I was stuck.
 
@@ -214,17 +216,15 @@ I would like to thank Mumbere because he has helped me understand and solve issu
 
 <!-- FAQ (optional) -->
 
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+## ❓ FAQ (OPTIONAL) <a name="faq">FAQ</a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
+- **[Which framework did you use to create the project?]**
 
-- **[Question_1]**
+  - [React/Redux]
 
-  - [Answer_1]
+- **[Where is the project applicable?]**
 
-- **[Question_2]**
-
-  - [Answer_2]
+  - [You can use the projecy for your own personal learning journey]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -232,7 +232,5 @@ I would like to thank Mumbere because he has helped me understand and solve issu
 ## 📝 License <a name="license"></a>
 
 This project is [MIT.md] licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
