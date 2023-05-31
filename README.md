@@ -140,6 +140,6 @@ I would like to thank Mumbere because he has helped me understand and solve issu
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./License) licensed.
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
