@@ -34,7 +34,6 @@
 ### Tech Stack <a name="PERN"></a>
 
 
-This tech stack is PERN and consists of PostgreSQL, Express, React, and Node. With the Express. js framework, PostgreSQL is used as a backend database.
 
 <details>
   <summary>Client</summary>
